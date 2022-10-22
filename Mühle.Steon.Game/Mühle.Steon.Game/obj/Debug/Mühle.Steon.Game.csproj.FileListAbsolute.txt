@@ -1,0 +1,10 @@
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Mühle.Steon.Game\Mühle.Steon.Game\bin\Debug\Mühle.Steon.Game.exe.config
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Mühle.Steon.Game\Mühle.Steon.Game\bin\Debug\Mühle.Steon.Game.exe
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Mühle.Steon.Game\Mühle.Steon.Game\bin\Debug\Mühle.Steon.Game.pdb
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Mühle.Steon.Game\Mühle.Steon.Game\obj\Debug\Mühle.Steon.Game.csproj.AssemblyReference.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Mühle.Steon.Game\Mühle.Steon.Game\obj\Debug\Mühle.Steon.Game.Form1.resources
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Mühle.Steon.Game\Mühle.Steon.Game\obj\Debug\Mühle.Steon.Game.Properties.Resources.resources
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Mühle.Steon.Game\Mühle.Steon.Game\obj\Debug\Mühle.Steon.Game.csproj.GenerateResource.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Mühle.Steon.Game\Mühle.Steon.Game\obj\Debug\Mühle.Steon.Game.csproj.CoreCompileInputs.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Mühle.Steon.Game\Mühle.Steon.Game\obj\Debug\Mühle.Steon.Game.exe
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Mühle.Steon.Game\Mühle.Steon.Game\obj\Debug\Mühle.Steon.Game.pdb
